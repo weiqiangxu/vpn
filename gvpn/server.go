@@ -3,12 +3,12 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/weiqiangxu/vpn/gvpn/libgvpn"
 	"github.com/zs-java/libgo-common/assert"
 	"github.com/zs-java/libgo-common/nets"
 	"github.com/zs-java/libgo-common/nets/handshake"
 	"github.com/zs-java/libgo-common/nets/packet"
 	"github.com/zs-java/libgo-common/nets/transaction"
-	"gvpn/libgvpn"
 	"net"
 )
 

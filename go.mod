@@ -8,3 +8,7 @@ require (
 )
 
 require golang.org/x/sys v0.7.0 // indirect
+
+require github.com/mariomac/gostream v0.8.1
+
+require golang.org/x/exp v0.0.0-20220328175248-053ad81199eb // indirect
