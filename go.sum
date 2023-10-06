@@ -1,0 +1,6 @@
+github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8 h1:TG/diQgUe0pntT/2D9tmUCz4VNwm9MfrtPr0SU2qSX8=
+github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8/go.mod h1:P5HUIBuIWKbyjl083/loAegFkfbFNx5i2qEP4CNbm7E=
+github.com/zs-java/libgo-common v0.0.6 h1:Odq1snrxVatSbUPnBtmDLHf8+UtuOp8a39cWrOZj1uI=
+github.com/zs-java/libgo-common v0.0.6/go.mod h1:tzwTBKN2vBjDXQLeLS3+3S8r2c3j6efXUnHJP0KMi7w=
+golang.org/x/sys v0.7.0 h1:3jlCCIQZPdOYu1h8BkNvLz8Kgwtae2cagcG/VamtZRU=
+golang.org/x/sys v0.7.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
